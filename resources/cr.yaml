@@ -1,0 +1,7 @@
+apiVersion: sample.dev/v1alpha1
+kind: Foo
+metadata:
+  name: example-foo
+spec:
+  message: hello-world
+  count: 5
